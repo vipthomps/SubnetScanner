@@ -16,7 +16,6 @@ services:
       - ALL
     cap_add:
       - NET_BIND_SERVICE
-    resource_limits_dummy: "Optional: configured via orchestrator"
     # Adjust resource limits if deploying in constrained environments
     deploy:
       resources:
