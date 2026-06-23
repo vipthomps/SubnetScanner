@@ -1,0 +1,6 @@
+{
+  "name": "WatchYourLAN Subnet Dashboard",
+  "description": "A lightweight, beautiful network monitoring tool for tracking connected devices, discovering available open IPs, and analyzing subnet statistics like vendor distributions and connection history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
